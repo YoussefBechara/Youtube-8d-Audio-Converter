@@ -1,0 +1,5 @@
+requests
+YoutubeDL
+pydub
+numpy
+mutagen.id3 
